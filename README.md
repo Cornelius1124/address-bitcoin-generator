@@ -1,2 +1,2 @@
-# address-bitcoin-generator
+# Bitcoin Address Generator
 A simple generator
